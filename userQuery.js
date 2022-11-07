@@ -1,4 +1,4 @@
-const sequelize = require("./app");
+const sequelize = require("./connectivity");
 const Books = require("./schema");
 
 const UserQuery = {
